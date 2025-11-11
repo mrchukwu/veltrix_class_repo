@@ -26,5 +26,6 @@ const func = function (num1, num2){
 }
 
 func(5, 10);
+func(4, 10);
 
 // 01
